@@ -1,0 +1,9 @@
+{
+  "name": "agy-file-reveal",
+  "displayName": "文件右键打开位置",
+  "version": "1.0.0",
+  "description": "在对话的关联文件链接右键菜单中新增「打开文件位置」与「复制完整路径」，一键在资源管理器中定位文件。",
+  "logo": "assets/logo.svg",
+  "homepage": "https://github.com/pika-66/antigravity-file-reveal",
+  "repository": "https://github.com/pika-66/antigravity-file-reveal"
+}
